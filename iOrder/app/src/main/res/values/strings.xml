@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iOrder</string>
+    <string name="send">Gửi</string>
+    <string name="yes">Đồng ý</string>
+    <string name="cancel">Hủy</string>
+    <string name="undo">HOÀN TÁC</string>
+    <string name="descriptionDrinkItem">Ảnh của thức uống</string>
+
+    <string name="textview">Text View</string>
+    <string name="empty">Chưa có thức uống nào được chọn</string>
+</resources>
